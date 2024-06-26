@@ -8,7 +8,7 @@ public class Tester {
     private double salary;
 
     // Конструктор без параметров
-    public Tester(oooo) {
+    public Tester() {
         this("Unknown", "Unknown", 0, "Unknown", 0.0);
     }
 
