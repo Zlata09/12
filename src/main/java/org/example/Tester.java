@@ -9,7 +9,7 @@ public class Tester {
 
     // Конструктор без параметров
     public Tester() {
-        this("Ztghyujk,opl", "xdcfvbnj", 0, "tdgtgugg", 0.0);
+        this("Ztghyujk,opl", "xdcfvbnj", 0, "tdgtgugg", 454.454);
     }
 
     // Конструктор с двумя параметрами
